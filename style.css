@@ -1,0 +1,17 @@
+body {
+  width : 100vw;
+}
+
+table {
+  border-collapse : collapse;
+  width : inherit;
+}
+
+th {
+  background-color : #003b5d;
+  color : #fff;
+}
+
+th, td{
+  width : 50vw;
+}
